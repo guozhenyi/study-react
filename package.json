@@ -1,5 +1,5 @@
 {
-  "name": "demo-react",
+  "name": "study-react",
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "terser": "^4.8.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.10.4",
-    "@babel/core": "^7.10.4"
+    "babel-cli": "6",
+    "babel-preset-react-app": "3"
   }
 }
