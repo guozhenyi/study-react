@@ -5,7 +5,7 @@
 ## 克隆当前项目到本地
 
 ```shell
-git clone https://github.com/guozhenyi/study-react.git
+git clone https://xxxxx.git
 ```
 
 ## 起一个简单的web服务
@@ -34,7 +34,6 @@ yarn add --dev babel-cli@6 babel-preset-react-app@3
 ## 创建JSX预处理后放置目录
 
 ```shell
-mkdir src
 mkdir lib
 ```
 
