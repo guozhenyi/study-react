@@ -120,7 +120,6 @@ class FormTwo extends React.Component {
 
         this.state = {
             eating: false,
-            eatFood: '',
             eatNum: 0,
             tip: '',
         };
@@ -148,8 +147,7 @@ class FormTwo extends React.Component {
         event.preventDefault();
 
         const form = {
-            is_eating: this.eating ? 'yes' : 'no',
-            eatFood: this.state.eatFood,
+            is_eating: this.state.eating ? 'yes' : 'no',
             eatNum: this.state.eatNum,
         };
 
