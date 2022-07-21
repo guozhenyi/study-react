@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "terser": "^4.8.0"
+    "terser": "^4.8.1"
   },
   "devDependencies": {
     "babel-cli": "6",
